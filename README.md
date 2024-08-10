@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Sreya</h1>
 <h3 align="center">An aspiring software developer from India</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsreya&label=Profile%20views&color=0e75b6&style=flat" alt="iamsreya" /> </p>
 
 - 📫 How to reach me **nsreya477@gmail.com**
